@@ -1,4 +1,4 @@
-# CLI QR Code Generator for Python
+# QR Code Generator for Python - CLI
 
 This is a command-line interface (CLI) QR code generator written in Python. This tool allows you to quickly generate QR codes with custom styling options.
 
@@ -6,6 +6,12 @@ This is a command-line interface (CLI) QR code generator written in Python. This
 - Generate QR codes from user input strings.
 - Customize QR code appearance based on user preference.
 - Support for generating multiple QR codes in a session.
+
+## Sample Codes
+<div style="display:flex;">
+    <img src="https://github.com/atorrez007/QR_code_cli/blob/main/user_qr_code_93.png" alt="Alt text 1" width="300" >
+    <img src="https://github.com/atorrez007/QR_code_cli/blob/main/user_qr_code_71.png" alt="Alt text 2" width="300" >
+</div>
 
 ## Installation
 To use this CLI QR code generator, make sure you have Python installed on your system. Additionally, you need to install the `qrcode` library.
